@@ -56,8 +56,6 @@
                  Les cours sont organisés selon le planing suivant :<br>
             </p>
 
-            <!--ajouter tableau-->
-
             <table>
                                 <tr>
                                     <td>8h-10h</td>
@@ -81,10 +79,9 @@
 
             <!--ajouter des photos-->
 
+            <img alt="" src="https://images.pexels.com/photos/260440/pexels-photo-260440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940">
+
             </section>
-
-
-
 
              <section>
                  <h2 class="title">Devenir menbre de l'association</h2>
