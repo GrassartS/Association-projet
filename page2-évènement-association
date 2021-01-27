@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+<title> Association agility canin  </title>
+
+<meta charset="utf-8">
+
+<meta name = "description" content = " Présentation de l'association  "/>
+
+<style>
+
+    html{
+        font-size: 2vh;
+        font-size: 2vw;
+        background:radial-gradient(yellow,red);
+    }
+
+    .title { 
+        
+        color: white;
+    }
+
+
+     p {
+         color:blanchedalmond
+     }
+     
+</style>
+
+</head>
+
+<body>
+
+    <main>
+
+        <h1 class = "title"><strong>Association agility canin</strong></h1>
+    
+    
+            <section>
+
+            <h2 class = "title">Evènement de l'association </h2>
+
+             <p>
+                 Un coucour est organisé le dernier week end de juillet.<br>
+                 Le coucours comprend plusieurs catégorie afin que tous les niveaux puissent participé.<br>
+            </p>
+
+            </section>
+
+            <section> 
+
+            <h2 class = "title">Les épreuves </h2>
+
+            <p>Les épreuves seront répartit sur l'intégralité du week-end.
+
+    </main>
+
+</body>
+
+</html>
