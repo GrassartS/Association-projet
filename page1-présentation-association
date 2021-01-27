@@ -23,14 +23,7 @@
         color: white;
     }
 
-    table, td {
-        text-align: center;
-        border-style: solid;
-        border-color: black;
-        background-color: yellow;
-     }
-
-     p,li {
+     p, li {
          color:blanchedalmond
      }
      
@@ -51,33 +44,23 @@
 
              <p>
                  L'association propose des cours d'agility tout les week-end de l'année.<br>
-                 Le samedi matin est priviligiés pour les débutants.<br>
-                 Le samedi après-midi est réservé pour les comfirmé.<br>
+                 Le samedi matin est priviligiés pour les débutants, alors que l'après-midi est réservé pour les comfirmé.<br>
+                 L'assocition dispose de terrain en extérieur et en intérieur afin de ne pouvoir proposer des cours toute l'année quelques soit la météo<br>
                  Les cours sont organisés selon le planing suivant :<br>
             </p>
-
-            <table>
-                                <tr>
-                                    <td>8h-10h</td>
-                                    <td>10h-12h</td>
-                                    <td>13h-15h</td>
-                                    <td>15h-17h</td>
-                                </tr>
-                                <tr>
-                                    <td>dressage débutant</td>
-                                    <td>agility débutant</td>
-                                    <td>dressage comfirmé</td>
-                                    <td>agility comfirmé</td>
-                                </tr>
-             </table>
+           
+             <ul>
+                <li> 8h-10h : dressage débutant 
+                <li> 10h-12h : agility débutant 
+                <li> 13h-15h : dressage confirmé
+                <li> 15h-17h : agility confirmé
+            </ul>
     
             <p>            
                  Nous organisons plusieurs évements comme des concours au cours de l'année.<br>
                  <!--ajouter lien internet vers page2-->
 
             </p>
-
-            <!--ajouter des photos-->
 
             <img alt="" src="https://images.pexels.com/photos/3013467/pexels-photo-3013467.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
 
@@ -86,10 +69,9 @@
              <section>
                  <h2 class="title">Devenir menbre de l'association</h2>
                      <p> Pour devenir menbre il suffit de s'inscrire à l'accueil de l'asssociation et de verser une participation de 50€.<br>
-                         Ensuite pour pouvoir participer aux cours, il suffit de compléter le formulaire suivant:<br>
+                         Ensuite pour pouvoir participer aux cours, il suffit de compléter le formulaire suivant et de le remettre à l'accueil:<br>
+                         Si vous n'vez pas la capacité de l'imprimer, il vous sera fourni à l'accueil de l'association.<br>
                     </p>
-
-                    <!-- ajouter le formulaire-->
 
                     <object
                     type="application/pdf"
@@ -97,7 +79,6 @@
                     width="400"
                     height="350">
                     </object>
-    
             </section>
 
             <section>
@@ -109,8 +90,6 @@
                         <a href="mailto:email@example.com"> email@example.com</a>
                     </p>
             </section>
-
-        
 
     </main>
 
