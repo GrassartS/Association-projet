@@ -36,6 +36,14 @@
     <main>
 
         <h1 class = "title"><strong>Association agility canin</strong></h1>
+
+        <nav> 
+    <ul>
+        <li> <a href ="page1-présentation-association"> Présentation </a> </li>
+        <li> <a href = "page2-évenement-association" > Evènement </a> </li>
+    </ul>
+
+        </nav>
     
     
             <section>
@@ -58,6 +66,7 @@
     
             <p>            
                  Nous organisons plusieurs évements comme des concours au cours de l'année.<br>
+                 <a href = "page2-évenement-association" > Evènement </a>
                  <!--ajouter lien internet vers page2-->
 
             </p>
