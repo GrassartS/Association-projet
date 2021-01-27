@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+<title> Association agility canin  </title>
+
+<meta charset="utf-8">
+
+<meta name = "description" content = " Présentation de l'association  "/>
+
+<style>
+
+    html{
+        font-size: 2vh;
+        font-size: 2vw;
+        background:radial-gradient(yellow,red);
+    }
+
+    .title { 
+        
+        color: white;
+    }
+
+    table, td {
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        background-color: gray;
+     }
+
+     p,li {
+         color:blanchedalmond
+     }
+     
+</style>
+
+</head>
+
+<body>
+
+    <main>
+
+        <h1 class = "title"><strong>Association agility canin</strong></h1>
+    
+    
+            <section>
+
+            <h2 class = "title">Présentation de l'association </h2>
+
+             <p>
+                 L'association propose des cours d'agility tout les week-end de l'année.<br>
+                 Le samedi matin est priviligiés pour les débutants.<br>
+                 Le samedi après-midi est réservé pour les comfirmé.<br>
+                 Les cours sont organisés selon le planing suivant :<br>
+            </p>
+
+            <!--ajouter tableau-->
+
+            <table>
+                                <tr>
+                                    <td>8h-10h</td>
+                                    <td>10h-12h</td>
+                                    <td>13h-15h</td>
+                                    <td>15h-17h</td>
+                                </tr>
+                                <tr>
+                                    <td>dressage débutant</td>
+                                    <td>agility débutant</td>
+                                    <td>dressage comfirmé</td>
+                                    <td>agility comfirmé</td>
+                                </tr>
+             </table>
+    
+            <p>            
+                 Nous organisons plusieurs évements comme des concours au cours de l'année.<br>
+                 <!--ajouter lien internet vers page2-->
+
+            </p>
+
+            <!--ajouter des photos-->
+
+            </section>
+
+
+
+
+             <section>
+                 <h2 class="title">Devenir menbre de l'association</h2>
+                     <p> Pour devenir menbre il suffit de s'inscrire à l'accueil de l'asssociation et de verser une participation de 50€.<br>
+                         Ensuite pour pouvoir participer aux cours, il suffit de compléter le formulaire suivant:<br>
+                    </p>
+
+                    <!-- ajouter le formulaire-->
+
+                    <object
+                    type="application/pdf"
+                    data="formulaire-inscription-association.pdf"
+                    width="400"
+                    height="350">
+                    </object>
+    
+            </section>
+
+            <section>
+                <h2 class="title">Nous contacter</h2>
+                    <p>par téléphone :
+                        <a href="tel:0600000000">06 00 00 00 00</a>
+                    </p>
+                    <p>par mail : 
+                        <a href="mailto:email@example.com"> email@example.com</a>
+                    </p>
+            </section>
+
+        
+
+    </main>
+
+</body>
+
+</html>
