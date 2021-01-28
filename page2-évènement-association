@@ -23,6 +23,13 @@
         color: white;
     }
 
+    table, td {
+        text-align: center;
+        border-style: solid;
+        border-color: black;
+        background-color: orange;
+     }
+
 
      p {
          color:blanchedalmond
@@ -36,14 +43,13 @@
 
     <main>
 
-        <h1 class = "title"><strong>Association agility canin</strong></h1>
+        <h1 class = "title"><strong>Association agility canin</strong></h1>  
 
-        <nav> 
+           <nav> 
     <ul>
         <li> <a href ="page1-présentation-association"> Présentation </a> </li>
         <li> <a href = "page2-évenement-association" > Evènement </a> </li>
     </ul>
-    
     
             <section>
 
@@ -62,6 +68,29 @@
 
             <p>Les épreuves seront répartit sur l'intégralité du week-end.
 
+            <table>
+                <tr>
+                    <td></td>
+                    <td> Samedi </td>
+                    <td> Dimanche </td>
+                </tr>
+                <tr>
+                    <td> 9h-12h </td>
+                    <td> 1ère épreuve du concours d'agility pour les débutants </td>
+                    <td> Démonstration d'agility par un professionnel </td>
+                </tr>
+                <tr>
+                    <td> 14h-17h </td>
+                    <td> 1ère épreuve du coucours d'agility pour les confirmés </td>
+                    <td> 2ème épreuves du coucours d'agility des finalistes confirmés et débutants </td>
+                </tr>
+                <tr>
+                    <td> 18h </td>
+                    <td> Présentation des résultats et appel des finalistes pour la 2ème épreuve du concours</td>
+                    <td> Présentation des résultats et podium des confirmés et des débutants. </td>
+                </tr>
+            </table>          
+        
     </main>
 
 </body>
