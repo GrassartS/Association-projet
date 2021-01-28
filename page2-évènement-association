@@ -50,6 +50,8 @@
         <li> <a href ="page1-présentation-association"> Présentation </a> </li>
         <li> <a href = "page2-évenement-association" > Evènement </a> </li>
     </ul>
+
+            </nav>
     
             <section>
 
@@ -66,7 +68,7 @@
 
             <h2 class = "title">Les épreuves </h2>
 
-            <p>Les épreuves seront répartit sur l'intégralité du week-end.
+            <p>Les épreuves seront répartit sur l'intégralité du week-end. </p>
 
             <table>
                 <tr>
@@ -89,8 +91,29 @@
                     <td> Présentation des résultats et appel des finalistes pour la 2ème épreuve du concours</td>
                     <td> Présentation des résultats et podium des confirmés et des débutants. </td>
                 </tr>
-            </table>          
-        
+            </table>         
+
+            </section> 
+
+            <section>
+
+            <h2 class = "title"> Modalité d'inscription </h2>
+
+            <p>Pour participer au concours il suffit de s'incrire à l'accueil de l'association </p>
+
+            </section>
+
+            <section>
+
+            <h2 class = "title">Les récompenses  </h2>
+
+            <p> Voici les récompenses qui pourront être gagné à la fin du week end. <br>
+            Une médaille sera offerte à tout les participants, et des trophés seront remis au gagnant des podiumm des concours débutant et confirmé.<br>          
+            </p>
+
+            </section>
+
+
     </main>
 
 </body>
